@@ -9,14 +9,14 @@ class PlaylistProvider extends ChangeNotifier {
     Song(
       songName: "Don Moen - Hungry Heart",
       artistName: "Doen Moen",
-      albumArtImagePath: "assets/images/donmoen.jpg",
+      albumArtImagePath: "assets/images/donmoen2.jpg",
       audioPath: "audio/Don Moen - Hungry Heart.mp3",
     ),
     // song 2
     Song(
       songName: "Don Moen - Return to Me (Official Lyric Video)",
       artistName: "Doen Moen",
-      albumArtImagePath: "assets/images/donmoen2.jpg",
+      albumArtImagePath: "assets/images/donmoen.jpg",
       audioPath: "audio/Don Moen - Return to Me (Official Lyric Video).mp3",
     ),
     // song 3
